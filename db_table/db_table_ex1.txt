@@ -1,0 +1,2 @@
+db table init
+db table make
