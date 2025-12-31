@@ -6,3 +6,5 @@ tdata = []
 for ld in ldata:
     tdata.append(ld + num1)
 print(tdata)
+
+version_str = "v2"
